@@ -56,7 +56,7 @@ section {
     padding-left: 30px;
     font-family: var(--fonte3);
     font-size: 3.5vw;
-    background-attachment: fixed, scroll;
+    background-attachment: fixed;
 }
 
 section > p {
